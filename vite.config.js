@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/ci-cd-project/",
+  base: "/ci-cd-golf-booking-app/",
   build: {
     outDir: "dist",
   },
